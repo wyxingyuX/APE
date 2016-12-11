@@ -1,0 +1,3 @@
+hour_of_day,which_day,uid,proc_src_name,proc_dst_name,proc_src_first3_folder_path,proc_dst_first3_folder_path,label
+hour_of_day.0,which_day.6,uid.68,proc_src_name.l.lf,proc_dst_name.l.jj,proc_src_first3_folder_path./usr/sbin/,proc_dst_first3_folder_path./usr/lib/,1
+hour_of_day.0,which_day.6,uid.0,proc_src_name.l.bash,proc_dst_name.l.s,proc_src_first3_folder_path./bin/,proc_dst_first3_folder_path./usr/sbin/,0
